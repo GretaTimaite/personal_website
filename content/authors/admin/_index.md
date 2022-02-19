@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: 
   matter.
 education:
   courses:
@@ -12,11 +12,12 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Sociology
+- Science and Technology Studies
 - Open Data + Tools
 - Computational Methods
 - Machine Learning and Artificial Intelligence
 - Geocomputation
+- Active Travel
 - R
 organizations:
 - name: Leeds Institute of Data Analytics, University of Leeds
