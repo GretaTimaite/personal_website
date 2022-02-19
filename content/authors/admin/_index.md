@@ -46,4 +46,4 @@ superuser: true
 title: Greta Timaite
 ---
 
-I am a data science intern at Leeds Institute for Data Analytics. Currently I work on the OpenInfra project aiming to explore the potential uses of OpenStreetMap data for transport research.
+I am a data science intern at Leeds Institute for Data Analytics. Currently I work on the [OpenInfra](https://github.com/udsleeds/openinfra) project aiming to explore the potential uses of OpenStreetMap data for transport research.
