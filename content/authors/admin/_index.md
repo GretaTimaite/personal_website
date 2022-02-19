@@ -3,25 +3,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc Big Data and Digital Futures
+    institution: University of Warwick
+    year: 2021
+  - course: BA Sociology
+    institution: University of Warwick
+    year: 2020
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sociology
+- Open Data + Tools
+- Computational Methods
+- Machine Learning and Artificial Intelligence
+- Geocomputation
+- R
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Leeds Institute of Data Analytics, University of Leeds
+  url: https://lida.leeds.ac.uk/
+role: Data Science Intern
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,11 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Greta Timaite
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a data science intern at Leeds Institute for Data Analytics. Currently I work on the OpenInfra project aiming to explore the potential uses of OpenStreetMap data for transport research.
