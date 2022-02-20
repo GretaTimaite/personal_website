@@ -1,6 +1,5 @@
 ---
-bio: Data science intern
-  matter.
+bio: Data science intern :)
 education:
   courses:
   - course: MSc Big Data and Digital Futures
