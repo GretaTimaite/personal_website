@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Greta Timaite # Website name
 baseurl: 'https://gretatimaite.netlify.app/' # Website URL
-copyright: '2022 Greta Timaite' # Footer text, e.g. '© {year} Me'
+copyright: '© Greta Timaite 2022' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
