@@ -1,0 +1,19 @@
+---
+output: md_document
+title: "Period tracking apps – a feminist issue"
+abstract: In this article I explore period tracking apps from a feminist perspective. I argue that through the designs and data collection they reflect and perpetuate, even if unintentionally, heteronormative notions of gender and sexuality.
+authors: 
+- admin
+date: "2020-04-01T00:00:00Z"
+featured: false
+image:
+  caption: 'Image credit: [Tim Mossholder](https://unsplash.com/photos/clN4DePMfm4)'
+  focal_point: ""
+  preview_only: false
+publication: Young Feminist Europe
+links:
+- name: URL
+  url: https://www.youngfeminist.eu/2020/07/period-tracking-apps-a-feminist-issue/
+share: false
+profile: true
+---
