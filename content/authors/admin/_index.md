@@ -1,5 +1,5 @@
 ---
-bio: 
+bio: Data science intern
   matter.
 education:
   courses:
