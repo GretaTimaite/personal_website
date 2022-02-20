@@ -4,14 +4,13 @@ title: Using RStudio to build a blog/website? My tips
 abstract: In this blog post I share some tips and tricks on setting up and running a personal website/blog with RStudio.
 authors: 
 - admin
-date: "May 2021"
+date: "2021-05-01T00:00:00Z"
 featured: false
 image:
   caption: 'Image credit: [Daniel Thomas](https://unsplash.com/photos/6_NXEMZbUq0)'
   focal_point: ""
   preview_only: false
 publication: Dataquest Direct
-publishDate: "2022"
 links:
 - name: URL
   url: https://community.dataquest.io/t/rstudio-for-building-a-blog-website-my-tips/553792
