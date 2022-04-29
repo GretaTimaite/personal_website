@@ -1,0 +1,21 @@
+---
+output: md_document
+title: "The potential of OpenStreetMap for (accessible) active travel planning"
+abstract: Open-access data has the potential to encourage a more participatory and bottom-up approach to decision-making in transport research. This paper discusses the initial findings of OpenInfra project that aims to explore the potential of OpenStreetMap in (accessible) transport infrastructure planning, specifically in the context of active travel in the UK. Exploratory data analysis reveals that, while OSM provides extensive highways data, it lacks systematic information of key attributes relevant to planning for active travel (kerb height, sidewalk width), are still largely missing.
+authors: 
+- admin
+- Robin Lovelace
+- Victoria Houlden
+date: "2022-01-17T00:00:00Z"
+featured: false
+publication: GISRUK Conference Proceedings
+publication_types:
+- "1"
+links:
+- name: PDF
+  url: https://github.com/udsleeds/openinfra/blob/main/GISRUK_paper/openinfra_gisruk.pdf
+- name: GitHub
+  url: https://github.com/udsleeds/openinfra/tree/main/GISRUK_paper
+share: false
+profile: true
+---
