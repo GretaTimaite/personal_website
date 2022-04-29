@@ -10,7 +10,7 @@ authors:
 date: "2021-12-09T00:00:00Z"
 featured: false
 links:
-- name: Agenda
+- name: Webpage
   url: https://us3.campaign-archive.com/?e=__test_email__&u=380073952ff0d9c6b5c5c5850&id=35ac9bdf89
 - name: material
   url: https://itsleeds.github.io/pct/articles/pct_training.html#preparation
