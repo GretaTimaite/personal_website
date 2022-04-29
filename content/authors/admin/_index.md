@@ -1,5 +1,5 @@
 ---
-bio: Data science intern :)
+bio: Data scientist and an advocate of open science/tools/data :)
 education:
   courses:
   - course: MSc Big Data and Digital Futures
@@ -12,16 +12,13 @@ email: ""
 highlight_name: true
 interests:
 - Science and Technology Studies
-- Open Data + Tools
-- Computational Methods
+- Computational (Social Science) Methods
 - Machine Learning and Artificial Intelligence
-- Geocomputation
-- Active Travel
 - R
 organizations:
 - name: Leeds Institute of Data Analytics, University of Leeds
   url: https://lida.leeds.ac.uk/
-role: Data Science Intern
+role: Data Scientist
 social:
 - icon: github
   icon_pack: fab
@@ -33,4 +30,4 @@ superuser: true
 title: Greta Timaite
 ---
 
-I am a data science intern at Leeds Institute for Data Analytics. Currently I work on the [OpenInfra](https://github.com/udsleeds/openinfra) project aiming to explore the potential uses of OpenStreetMap data for transport research.
+I am a data scientist at Leeds Institute for Data Analytics. Currently I work on a project aiming to better understand and quantify uncertainty in agent-based models. Previously I worked on an [OpenInfra](https://github.com/udsleeds/openinfra) project exploring the potential uses of OpenStreetMap data for transport research.
