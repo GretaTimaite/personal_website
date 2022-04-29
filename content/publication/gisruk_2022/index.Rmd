@@ -18,4 +18,7 @@ links:
   url: https://github.com/udsleeds/openinfra/tree/main/GISRUK_paper
 share: false
 profile: true
+tags:
+  - Academic
+  - Conference
 ---
