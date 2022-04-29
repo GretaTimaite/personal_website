@@ -11,11 +11,9 @@ main:
     url: 'publication/'
     weight: 20
   - name: General
-    parent: "general"
     url: 'workshops/general'
     weight: 30
   - name: Academic
-    parent: "academic"
     url: 'workshops/academic'
     weight: 30
     
