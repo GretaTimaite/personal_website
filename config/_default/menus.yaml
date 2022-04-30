@@ -13,4 +13,7 @@ main:
   - parent: "Talks"
     url: 'talks'
     weight: 30
+  - parent: "Talks"
+    url: 'talks'
+    weight: 30
     
