@@ -12,14 +12,13 @@ main:
     weight: 20
   - name: Talks
     identifier: talks
-    url: 'talks/'
     weight: 30
   - name: Presentations
     parent: talks
-    url: 'presentation/'
+    url: 'talks/presentation/'
     weight: 30
   - name: Teaching
     parent: talks
-    url: 'teaching/'
+    url: 'talks/teaching/'
     weight: 30
     
