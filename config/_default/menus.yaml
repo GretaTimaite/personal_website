@@ -10,12 +10,15 @@ main:
   - name: Publications
     url: 'publication/'
     weight: 20
+  - name: Talks
+    identifier: talks
+    weight: 30
   - name: Presentations
-    parent: "Talks"
-    url: 'talks/'
+    parent: talks
+    url: 'talks/presentation'
     weight: 30
   - name: Teaching
-    parent: "Talks"
-    url: 'talks/'
+    parent: talks
+    url: 'talks/teaching'
     weight: 30
     
