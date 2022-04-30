@@ -16,9 +16,9 @@ main:
   - name: Presentations
     parent: talks
     url: 'talks/presentation/'
-    weight: 30
+    weight: 10
   - name: Teaching
     parent: talks
     url: 'talks/teaching/'
-    weight: 30
+    weight: 20
     
