@@ -26,7 +26,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gretatimaite
-- icon: ORCID
+- icon: orcid
   icon_pack: fab
   link:  https://orcid.org/0000-0003-3826-2738 
 - icon: twitter
