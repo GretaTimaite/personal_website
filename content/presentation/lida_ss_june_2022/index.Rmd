@@ -1,0 +1,24 @@
+---
+title: "Exploring the efficacy of different methods for comparing pedestrian simulations against empirical data"
+output: html_notebook
+authors:
+  - admin
+date: "2022-06-23"
+links:
+  - name: Event
+    url: https://lida.leeds.ac.uk/seminar-series-23rd-june-2022/
+  - name: Recording
+    url: https://mymedia.leeds.ac.uk/Mediasite/Play/2fb067535f504c23ba5cca5af29993451d
+  - name: Slides
+    url: https://zenodo.org/record/6727768
+---
+### **Abstract**
+Agent-based models (ABMs) have become one of the main modelling tools helping to understand the contemporary challenges of human movement within cities (Crooks et al. 2021). ABMs are used to simulate real systems by creating artificial scenarios in contexts ranging from disease and epidemiology to traffic and pedestrian simulation (Torrens 2010). The uptake of ABMs has largely been informed by the increasing availability of data (Crooks et al. 2021), yet it remains a challenge to evaluate the accuracy of models because of various uncertainties, such as missing data and inherent randomness (Kieu et al. 2020).
+
+  This project aims to address the issue of uncertainty by investigating the impact of using different methods to evaluate the reliability of agent-based models. In other words, (some) uncertainties will be identified, quantified, and handled in a way that can help to enhance the understanding of a model’s quality and usefulness. The project objectives are:
+  
+  1. Produce a review and analysis of existing data on pedestrian movement within crowded corridors and within a train station concourse.
+  2. Simulate the movements of pedestrians in these environments.
+  3. Assess the difference between the simulations and the data using a variety of new and existing methods.
+  
+The project focus is on pedestrian models, however it is expected that the developed methods will be applicable to any agent-based modelling, such as consumer behaviour in shopping.
