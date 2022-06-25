@@ -1,9 +1,10 @@
 ---
+output: md_notebook
 title: "Exploring the efficacy of different methods for comparing pedestrian simulations against empirical data"
-output: html_notebook
 authors:
-  - admin
+ - admin
 date: "2022-06-23"
+event: "LIDA Seminar Series"
 links:
   - name: Event
     url: https://lida.leeds.ac.uk/seminar-series-23rd-june-2022/
