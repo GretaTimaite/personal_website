@@ -37,4 +37,6 @@ superuser: true
 title: Greta Timaite
 ---
 
-I am a data scientist at Leeds Institute for Data Analytics. Currently I work on a project aiming to better understand and quantify uncertainty in agent-based models. Previously I worked on an [OpenInfra](https://github.com/udsleeds/openinfra) project exploring the potential uses of OpenStreetMap data for transport research.
+I am a data scientist at Leeds Institute for Data Analytics. Currently I work on a project aiming to better understand and quantify uncertainty in agent-based models. I am also involved in the [OpenInfra project](https://github.com/udsleeds/openinfra) exploring the potential uses of OpenStreetMap data for transport research. 
+
+
