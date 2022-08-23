@@ -1,0 +1,21 @@
+---
+output: md_notebook
+title: "OSM for sustainable transport planning"
+abstract: OpenStreetMap (OSM) data has the potential to facilitate bottom-up approach to transport planning which is essential for localized data-driven policy interventions. Given this, OpenInfra project is exploring the potential of OSM data in transport research with a focus on active travel. The exploration showed that currently missing data limits the applicability of OSM data. Nevertheless, we argue that the potential and relevance of OSM data can be demonstrated by recategorizing OSM data to provide more actionable insights to policy-makers. This, therefore, could encourage the uptake of open data leading to more transparent, reproducible, and participatory transport planning.
+authors:
+- admin
+- James Hulse
+- Robin Lovelace
+date: "2022-08-17T00:00:00Z"
+featured: false
+publication: Proceedings of the Academic Track at State of the Map 2022
+publication_types:
+- "1"
+links:
+- name: PDF
+  url: https://zenodo.org/record/7004509
+- name: Slides
+  url: https://2022.stateofthemap.org/attachments/CEMMTQ_sotm2022_slides_update_HxoiqCX.pdf
+share: false
+profile: true
+---
