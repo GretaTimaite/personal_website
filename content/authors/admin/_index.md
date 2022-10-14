@@ -19,9 +19,9 @@ interests:
 - Machine Learning and Artificial Intelligence
 - R
 organizations:
-- name: Leeds Institute of Data Analytics, University of Leeds
-  url: https://lida.leeds.ac.uk/
-role: Data Scientist
+- name: CIM, University of Warwick
+  url: https://warwick.ac.uk/fac/cross_fac/cim/
+role: PGT Student 
 social:
 - icon: github
   icon_pack: fab
@@ -40,7 +40,7 @@ superuser: true
 title: Greta Timaite
 ---
 
-I am an ESRC-funded PGT student at CIM, University of Warwick. In 2023 I expect to start a PhD focusing on the intersection of AI controversies, expertise, and research communities.
+I am an ESRC-funded (1+3) PGT student at CIM, University of Warwick. In 2023 I expect to start a PhD focusing on the intersection of AI controversies, expertise, and research communities.
 
 Previously I worked as data scientist at LIDA, University of Leeds. There I was involved in two projects, one of which -- [OpenInfra project](https://github.com/udsleeds/openinfra) -- was shortlisted for Leeds Digital Festival Sustainability Awards 2022.
 
