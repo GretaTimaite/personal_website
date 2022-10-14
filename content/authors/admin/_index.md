@@ -37,6 +37,8 @@ superuser: true
 title: Greta Timaite
 ---
 
-I am a data scientist at Leeds Institute for Data Analytics. Currently I work on a project aiming to better understand and quantify uncertainty in agent-based models. I am also involved in the [OpenInfra project](https://github.com/udsleeds/openinfra) exploring the potential uses of OpenStreetMap data for transport research. 
+I am an ESRC-funded PGT student at CIM, University of Warwick. In 2023 I expect to start a PhD focusing on the intersection of AI controversies, expertise, and research communities.
+
+Previously I worked as data scientist at LIDA, University of Leeds. There I was involved in two projects, one of which -- [OpenInfra project](https://github.com/udsleeds/openinfra) -- was shortlisted for Leeds Digital Festival Sustainability Awards 2022.
 
 
