@@ -1,7 +1,10 @@
 ---
-bio: Data scientist and an advocate of open science/tools/data :)
+bio: Sociologist interested in AI and STS. Also an advocate of open science/tools/data :)
 education:
   courses:
+  - course: MA Social Science Research
+    institution: University of Warwick
+    year: 2023 (expected)
   - course: MSc Big Data and Digital Futures
     institution: University of Warwick
     year: 2021
@@ -11,7 +14,7 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Science and Technology Studies
+- Science and Technology Studies (STS)
 - Computational (Social Science) Methods
 - Machine Learning and Artificial Intelligence
 - R
