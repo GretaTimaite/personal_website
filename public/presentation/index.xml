@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Greta Timaite</title>
+    <link>https://gretatimaite.netlify.app/presentation/</link>
+      <atom:link href="https://gretatimaite.netlify.app/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Greta Timaite 2022</copyright><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gretatimaite.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://gretatimaite.netlify.app/presentation/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the efficacy of different methods for comparing pedestrian simulations against empirical data</title>
+      <link>https://gretatimaite.netlify.app/presentation/lida_ss_june_2022/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/presentation/lida_ss_june_2022/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Agent-based models (ABMs) have become one of the main modelling tools helping to understand the contemporary challenges of human movement within cities (Crooks et al. 2021). ABMs are used to simulate real systems by creating artificial scenarios in contexts ranging from disease and epidemiology to traffic and pedestrian simulation (Torrens 2010). The uptake of ABMs has largely been informed by the increasing availability of data (Crooks et al. 2021), yet it remains a challenge to evaluate the accuracy of models because of various uncertainties, such as missing data and inherent randomness (Kieu et al. 2020).&lt;/p&gt;
+&lt;p&gt;This project aims to address the issue of uncertainty by investigating the impact of using different methods to evaluate the reliability of agent-based models. In other words, (some) uncertainties will be identified, quantified, and handled in a way that can help to enhance the understanding of a model’s quality and usefulness. The project objectives are:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Produce a review and analysis of existing data on pedestrian movement within crowded corridors and within a train station concourse.&lt;/li&gt;
+&lt;li&gt;Simulate the movements of pedestrians in these environments.&lt;/li&gt;
+&lt;li&gt;Assess the difference between the simulations and the data using a variety of new and existing methods.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The project focus is on pedestrian models, however it is expected that the developed methods will be applicable to any agent-based modelling, such as consumer behaviour in shopping.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open data and tools for accessibility analysis</title>
+      <link>https://gretatimaite.netlify.app/presentation/mw_2022/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/presentation/mw_2022/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Accessibility is key for increasing the uptake of sustainable transport modes. Open data, such as OpenStreetMap data, and tools, such as ActDev and Wheelmap, have the potential to improve local understanding and analysis of accessibility to public spaces. The talk will highlight how the use of open data and tools can encourage the participation, and diversification of, local communities in transport planning.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open access data for transport research: tools, modelling and simulation</title>
+      <link>https://gretatimaite.netlify.app/presentation/lida_ss_feb_2022/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/presentation/lida_ss_feb_2022/</guid>
+      <description>
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Motor traffic-centric perspectives dominate road infrastructure planning (Parkin, 2018). Yet, other (active) travel modes, such as cycling and walking, have been found to bring an array of benefits: improved mental and physical health, decarbonisation, as well as being more efficient in terms of space (i.e., requires less space) (Parkin, 2018). Acknowledging the significance of active travel, new policies and investment programs (e.g., Department for Transport’s £250m Active Travel Fund) have led to the increasing demand for local evidence to inform interventions such as new cycleways and better-quality pavements. As a result, this project aims to investigate the applicability of open source, namely OpenStreetMap (OSM), data understand, prioritise, and design active travel infrastructure. The overall aim of the project is to understand the use of OSM data for transport planning, which, consequently, has the potential to lead to more inclusive and accessible evidence-based decision–making due to its crowdsourced nature.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New data products for local authorities</title>
+      <link>https://gretatimaite.netlify.app/presentation/innovations_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/presentation/innovations_2021/</guid>
+      <description>
+&lt;script src=&#34;https://gretatimaite.netlify.app/presentation/innovations_2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A new project led by the University of Leeds’ called openinfra is aiming to transform the evidence-base about infrastructure provision as it relates to walking and cycling. With input from the Department for Transport, Ordnance Survey and West Yorkshire Combined Authority, openinfra will explore the potential for open datasets, assess their strengths and weaknesses and teach best practices in using them. &lt;a href=&#34;https://github.com/udsleeds/openinfra&#34; class=&#34;uri&#34;&gt;https://github.com/udsleeds/openinfra&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI/ML in the Social: Interdisciplinary Network Perspective</title>
+      <link>https://gretatimaite.netlify.app/presentation/cim_2021/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/presentation/cim_2021/</guid>
+      <description>
+&lt;script src=&#34;https://gretatimaite.netlify.app/presentation/cim_2021/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;abstract&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The underlying premise of this presentation is that AI/ML systems represent and intervene in the social (Roberge and Castelle 2021). I ask, thus, what emerges as the social in relation to AI/ML? In particular, I inquire which academic fields that demonstrate interaction, or rather knowledge exchange, with the field of AI/ML emerge as claiming representation of, or intervention in the social? To “capture” the interactions between the academic fields, I will rely on the concept of a network. Specifically, I will discuss how visual network analysis and scientometrics might help to understand the AI/ML in the social.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

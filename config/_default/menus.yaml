@@ -17,8 +17,11 @@ main:
     parent: 'talks'
     url: 'presentation/'
     weight: 10
-  - name: Teaching
+  - name: Workshops
     parent: 'talks'
-    url: 'teaching/'
+    url: 'workshops/'
+    weight: 20
+  - name: Blog
+    url: 'blog/'
     weight: 20
     

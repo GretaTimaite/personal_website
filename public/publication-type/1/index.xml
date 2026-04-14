@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Greta Timaite</title>
+    <link>https://gretatimaite.netlify.app/publication-type/1/</link>
+      <atom:link href="https://gretatimaite.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Greta Timaite 2022</copyright><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gretatimaite.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://gretatimaite.netlify.app/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Agents Without Agency: Anthropological and Sociological Lessons for Contemporary AI Research and Policy</title>
+      <link>https://gretatimaite.netlify.app/publication/2025_agents_without_agency/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/publication/2025_agents_without_agency/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>OSM for sustainable transport planning</title>
+      <link>https://gretatimaite.netlify.app/publication/sotm_2022/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/publication/sotm_2022/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>The potential of OpenStreetMap for (accessible) active travel planning</title>
+      <link>https://gretatimaite.netlify.app/publication/gisruk_2022/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/publication/gisruk_2022/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs | Greta Timaite</title>
+    <link>https://gretatimaite.netlify.app/blog/</link>
+      <atom:link href="https://gretatimaite.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blogs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Greta Timaite 2022</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gretatimaite.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Blogs</title>
+      <link>https://gretatimaite.netlify.app/blog/</link>
+    </image>
+    
+    <item>
+      <title>Posts written for Warwick PhD Life Blog</title>
+      <link>https://gretatimaite.netlify.app/blog/phd_life_blogger/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/blog/phd_life_blogger/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>OpenStreetMap Active Travel Mapathon</title>
+      <link>https://gretatimaite.netlify.app/blog/2022-mapathon/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/blog/2022-mapathon/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Networking and Partnership Building: an Intern’s Perspective</title>
+      <link>https://gretatimaite.netlify.app/blog/networking_lida/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/blog/networking_lida/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Using RStudio to build a blog/website? My tips</title>
+      <link>https://gretatimaite.netlify.app/blog/rstudio_for_blogging/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/blog/rstudio_for_blogging/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Period tracking apps – a feminist issue</title>
+      <link>https://gretatimaite.netlify.app/blog/menstrual_apps/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/blog/menstrual_apps/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Kontracepcija kaip intervencija [Contraception as intervention]</title>
+      <link>https://gretatimaite.netlify.app/blog/contraception_as_intervention/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://gretatimaite.netlify.app/blog/contraception_as_intervention/</guid>
+      <description>
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

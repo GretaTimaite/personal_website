@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gretatimaite.netlify.app/sitemap.xml
